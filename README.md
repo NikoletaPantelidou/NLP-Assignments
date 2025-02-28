@@ -1,10 +1,10 @@
-## Zipf's Law of Abbreviation: A Comparative Study of Greek and English Songs
+# Zipf's Law of Abbreviation: A Comparative Study of Greek and English Songs
 
-# Project Overview
+## Project Overview
 
 This project examines Zipf's Law of Abbreviation by analyzing the word lengths in a Greek song and an English song. Zipf's Law of Abbreviation suggests that frequently used words tend to be shorter. By comparing the word distributions in both languages, this study explores whether the principle holds across linguistic boundaries.
 
-# Methodology
+## Methodology
 
 1. Song Selection
 
@@ -26,13 +26,13 @@ Distribution of word lengths was compared between the two languages.
 
 Visualization of frequency vs. word length was created to assess adherence to Zipf's Law of Abbreviation.
 
-# Results
+## Results
 
 The study aims to determine whether Greek and English follow similar trends in word-length distribution.
 
-Findings may indicate linguistic tendencies in abbreviation and efficiency of communication in songs.
+Findings indicate linguistic variation in abbreviation and efficiency of communication in songs.
 
-# Technologies Used
+## Technologies Used
 
 🐍 Python (for text processing and analysis)
 
@@ -40,21 +40,7 @@ Findings may indicate linguistic tendencies in abbreviation and efficiency of co
 
 📉 Matplotlib (for visualization)
 
-# How to Use
-
-Clone the repository:
-
-git clone
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the analysis script:
-
-python main.py
-
-Future Work
+## Future Work
 
 📌 Expand the dataset to include more songs from different languages.
 
